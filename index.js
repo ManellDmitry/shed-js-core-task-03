@@ -234,4 +234,8 @@ const rating = 5.36;
 let checkUserAge;
 const userObj = {};
 const objectPasswords = {};
+const temps = [14, -4, 25, 8, 11];
+const books = [
+    {},];
+let totalRating = 0;    
 
